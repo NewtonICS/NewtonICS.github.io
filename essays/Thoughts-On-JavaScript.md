@@ -10,7 +10,7 @@ labels:
 
 My experience with JavaScript was rocky at the start. My initial impression of JavaScript was that the language seemed less complex than Java, yet still very useful. I still have that sentiment, but my initial foray into programming with it was a rough start.
 
-## A project using an unknown language.
+## Thrown into the unknown.
 
 I had just been accepted by the University of Nebraska for a summer internship. The project was to track a bus using a Raspberry Pi with a 3G cellular module attached to it. I had thought that I would be in charge of the Raspberry Pi portion of the project. This would have been fine since I have worked on projects before with the Pi. However, I was tasked with programming part of the front end of the website. I was to use JavaScript for my section.
 

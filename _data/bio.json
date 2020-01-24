@@ -79,6 +79,13 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
@@ -102,7 +109,7 @@
       "position": "On-site Hardware and Software Support",
       "startDate": "2018-11-16",
       "endDate": "2018-11-18",
-      "summary": "Configured and maintained devices that were required for the Conference.",
+      "summary": "Configured and maintained devices that were required for the Conference."
     }
   ],
   "references": [

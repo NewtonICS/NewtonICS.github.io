@@ -25,7 +25,8 @@
         "username": "NewtonRasner",
         "url": "http://linkedin.com/in/newtonrasner"
       },
-    ]
+    ],
+  },
     "interests": [
     {
       "name": "Internet of Things",
@@ -40,7 +41,7 @@
       ]
     },
     {
-      "name": "Video game programming"
+      "name": "Video game programming",
       "keywords": [
         "Unity",
         "C#"

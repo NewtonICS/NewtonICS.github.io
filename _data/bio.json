@@ -26,7 +26,7 @@
         "url": "http://linkedin.com/in/newtonrasner"
       },
     ]
-  "interests": [
+    "interests": [
     {
       "name": "Internet of Things",
       "keywords": [
@@ -38,7 +38,7 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Video game programming"
       "keywords": [

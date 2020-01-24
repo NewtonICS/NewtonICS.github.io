@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/apple.jpg
 title: Apple Pie is the best pie!
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!

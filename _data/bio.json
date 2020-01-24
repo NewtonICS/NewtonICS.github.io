@@ -29,15 +29,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
         "Raspberry Pi"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
+      ]
+    }
+    {
+      "name": "Video game programming"
+      "keywords": [
+        "Unity",
+        "C#"
       ]
     }
   ],
@@ -59,9 +66,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "Unix",
+        "Git/GitHub"
       ]
     }
   ],
@@ -91,8 +97,13 @@
     }
   ],
   "volunteer": [
-  ],
-  "awards": [
+    {
+    "organization": "Hawaii Library Association",
+      "position": "On-site Hardware and Software Support",
+      "startDate": "2018-11-16",
+      "endDate": "2018-11-18",
+      "summary": "Configured and maintained devices that were required for the Conference.",
+    }
   ],
   "references": [
     {

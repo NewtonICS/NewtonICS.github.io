@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/keyboard.jpg
 title: Custom Mechanical Keyboard build!
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!

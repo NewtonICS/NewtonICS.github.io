@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Thoughts on JavaScript
+title: Learning to Get Over Initial Impressions
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:

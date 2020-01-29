@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/apple.jpg
 title: Apple Pie is the best pie!
-permalink: projects/vacay
+permalink: projects/applepie
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-15
 labels:

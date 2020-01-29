@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/keyboard.jpg
 title: Custom Mechanical Keyboard build!
-permalink: projects/micromouse
+permalink: projects/keyboardbuild
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:

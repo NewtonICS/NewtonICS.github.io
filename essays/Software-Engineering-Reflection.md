@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Learning Software Engineering"
-date: 2020-03-31
+date: 2020-05-14
 labels:
   - Software Engineering
   - Learning

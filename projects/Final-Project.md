@@ -32,7 +32,7 @@ I assisted with the creation of the Study Spots page. This was headed by my good
 
 I created the Edit Spot page which edited the spot selected. It brought in the previous data to help the user not make unwanted changes as well.
 
-![Edit Spots](../images/edit-study-spots.png)
+![Edit Spots](../images/edit-study-spot.png)
 
 The other page I worked on was the My Study Spots page. This page listed the study spots that the user owns.
 

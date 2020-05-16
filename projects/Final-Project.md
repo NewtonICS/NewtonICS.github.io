@@ -28,15 +28,15 @@ GitHub made everything so much easier. Issues were in their own branch. Testing 
 
 I assisted with the creation of the Study Spots page. This was headed by my good teammate Michael Chun, but I tinkered around with a few elements that ended up sticking in the final build.
 
-![Study Spots](images/study-spots.png)
+![Study Spots](../images/study-spots.png)
 
 I created the Edit Spot page which edited the spot selected. It brought in the previous data to help the user not make unwanted changes as well.
 
-![Edit Spots](images/edit-study-spots.png)
+![Edit Spots](../images/edit-study-spots.png)
 
 The other page I worked on was the My Study Spots page. This page listed the study spots that the user owns.
 
-![My Study Spots](images/my-study-spots.png)
+![My Study Spots](../images/my-study-spots.png)
 
 ## Where can I find the project?
 

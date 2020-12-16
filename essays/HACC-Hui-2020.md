@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: ICS 414 HACC-Hui
+# All dates must be YYYY-MM-DD format!
+date: 2020-12-15
+labels:
+  - Computer Science
+  - ICS 414
+  - HACC
+---
+
 ## What is HACC-Hui?
 
 ![HACC](/images/HACC.png)

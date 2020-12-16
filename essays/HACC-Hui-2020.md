@@ -38,7 +38,7 @@ I created the deletion function for the application. The code below shows a bit 
 
 ListTeamsWidget had a bug that I had to fix. The desired skills and tools were not showing up correctly. I had to fix the bug by updating the functions to properly fetch the correct data.
 
-<img src="/images/pic2_listteamswidget.png" alt="ListTeamWidget Code" style="float: middle; width: 500px" />
+<img src="/images/pic3_listteamswidget.png" alt="ListTeamWidget Code" style="float: middle; width: 500px" />
 
 ## Teamwork Made the Dream Work
 

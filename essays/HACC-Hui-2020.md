@@ -63,3 +63,5 @@ The rushed nature of the project hurt the learning experience though. The site h
 Another problem was the fact that we combined all of the work into a single project for every milestone. I kept having to relearn what the code does everytime this occured. The other teams may have setup the code differently than how my team has set it up. I could not figure out how some functions worked later on since the functions were created by a different team.
 
 Still a fun experience as a whole package. I think that having a larger project like this is a great idea as a class. I just think that the execution fell short which caused some headaches all around.
+
+

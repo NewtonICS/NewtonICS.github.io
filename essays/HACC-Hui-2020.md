@@ -34,7 +34,7 @@ My team of 5 communicated well and worked hard. Our team name was Level Up Team 
 
 We did not assign anyone in particular as a leader. We all chose issues out of the pile were we assigned and worked on our own initially. Whenever anyone ran into a roadblock, they asked the other groupmembers for assistance. All of us messaged the group chat questions about the issues at least once each, and all of us have answered each one of the questions multiple times.
 
-![Team](/images/teamwork.png)
+![Team](/images/teamwork.jpg)
 
 I learned how GitHub is actually used in a realistic setting as well. The master branch is only pushed to when we are completely certain that the code runs fine and nearly bug free. We created a pre-master branch for all of us to combine our branches together. This method was to make sure that there were no unseen conflicts in each of our code that could create issues. Even with this method in place, we still had some bugs in our master branch a couple times.
 
